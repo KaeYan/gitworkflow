@@ -1,2 +1,2 @@
 # gitworkflow
-motherfucker
+dont be a motherfucker
